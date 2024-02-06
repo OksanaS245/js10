@@ -1,0 +1,9 @@
+button {
+    height: 48px;
+    width: 156px;
+    margin-bottom: 16px;
+    background: yellowgreen;
+    border: 1px solid darkgreen;
+    border-radius: 36px;
+}
+
